@@ -1,6 +1,6 @@
 Git is a popular version control system. 
 
-It is used for:
+Git uses:
 
 Tracking code changes
 Tracking who made changes
